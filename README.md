@@ -34,7 +34,14 @@
 
 ### 🌸 GitHub Activity
 
+
+
+
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=laylapais&bg_color=0d1117&color=ffb6d9&line=ff69b4&point=ff69b4&area=true&area_color=ff69b4&hide_border=true" />
+  <img
+    src="https://ghchart.xqsit94.in/dark:ff69b4/laylapais"
+    alt="Contribuições GitHub em rosa"
+    width="100%"
+  />
 </p>
 
