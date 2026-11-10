@@ -1,34 +1,40 @@
-<h1 data-importer="text" align="center">Olá! Eu sou Layla 👩🏻‍💻🌸<br>Desenvolvedora de Software | AI</h1>
 
-###
+<h1 align="center">Layla 🌸</h1>
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
-</div>
-
-###
-
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
-
-### 🌸 Minhas contribuições
+<h3 align="center">
+  Software Developer | Artificial Intelligence
+</h3>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/FF69B4/laylapais" alt="Gráfico de contribuições rosa do GitHub" width="100%" />
+  Desenvolvendo soluções com código, criatividade e inteligência.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-###
+---
+
+### 🌷 Sobre mim
+
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+- 💻 Interessada em Engenharia de Software.
+- 🤖 Explorando Inteligência Artificial e agentes inteligentes.
+- 🐍 Desenvolvendo projetos com Python.
+
+### 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,react,angular,php,tailwind,git,github&theme=dark" />
+</p>
+
+---
+
+### 🌸 GitHub Activity
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=laylapais&bg_color=0d1117&color=ffb6d9&line=ff69b4&point=ff69b4&area=true&area_color=ff69b4&hide_border=true" />
+</p>
+
