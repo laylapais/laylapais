@@ -34,8 +34,8 @@
 
 <p align="center">
   <img
-    src="https://contribkit.app/user/laylapais.svg?palette=rosepine"
-    alt="Contribuições GitHub em rosa"
+    src="https://gh-heat.anishroy.com/api/laylapais/svg?colors=ffc0cb,ffb6c1,ff69b4,ff1493,c71585&darkMode=true"
+    alt="Contribuições GitHub em tons de rosa"
     width="100%"
   />
 </p>
