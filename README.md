@@ -30,14 +30,12 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,react,angular,php,tailwind,git,github&theme=dark" />
 </p>
 
----
 ### 🌸 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-contributions.vercel.app/api/v1/laylapais"
-    alt="GitHub Contributions"
+    src="https://contribkit.app/user/laylapais.svg?palette=rosepine"
+    alt="Contribuições GitHub em rosa"
     width="100%"
   />
 </p>
-
