@@ -31,16 +31,12 @@
 </p>
 
 ---
-
 ### 🌸 GitHub Activity
-
-
-
 
 <p align="center">
   <img
-    src="https://ghchart.xqsit94.in/dark:ff69b4/laylapais"
-    alt="Contribuições GitHub em rosa"
+    src="https://github-contributions.vercel.app/api/v1/laylapais"
+    alt="GitHub Contributions"
     width="100%"
   />
 </p>
